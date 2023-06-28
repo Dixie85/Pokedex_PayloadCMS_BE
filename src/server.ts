@@ -19,7 +19,7 @@ const start = async () => {
     },
   })
   
-  populatePokemon()
+  // populatePokemon()
 
   app.listen(3000);
 
